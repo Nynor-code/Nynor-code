@@ -92,7 +92,7 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
   * ABSA (ZA🇿🇦), EMIS (AO🇦🇴), EQUITY bank (KE🇰🇪), Bank MISR (EG🇪🇬),
   * Euronext (PT🇵🇹), SIBS (PT🇵🇹)
 
-- 🛒 **Retail**
+- **Retail**
   
   * Sonae (PT🇵🇹), Jerónimo Martins (PT🇵🇹), Recheio (PT🇵🇹), MAXI (AO🇦🇴), Auchan (PT🇵🇹FR🇫🇷),
   * IKEA (PT🇵🇹SE🇸🇪), LIDL (PT🇵🇹GE🇩🇪), METRO/MAKRO (PT🇵🇹GE🇩🇪), Shoprite (ZA🇿🇦)
