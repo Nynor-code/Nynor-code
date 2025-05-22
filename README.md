@@ -47,29 +47,41 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 
 ## 🎯 Main Customers
 
-- 🏦 **Banking**  
-  • ABSA (ZA🇿🇦), EMIS (Angola🇦🇴), EQUITY (Kenya🇰🇪), Bank MISR (Egypt🇪🇬)
+- **IT & IS**
+
+  * EDS (PT🇵🇹SP🇪🇸), Logica(PT🇵🇹DK🇩🇰UK🇬🇧IRL🇮🇪), Wincor Nixdorf (PT🇵🇹GE🇩🇪)
+  * Fujitsu (PT🇵🇹JP🇯🇵FI🇫🇮), OutSystems (Europe🇪🇺)
+
+- **Banking**
+  
+  * ABSA (ZA🇿🇦), EMIS (Angola🇦🇴), EQUITY bank (Kenya🇰🇪), Bank MISR (Egypt🇪🇬)
   * Euronext (PT🇵🇹), SIBS (PT🇵🇹)
 
-- 🛒 **Retail**  
-  • Sonae (PT🇵🇹), Jerónimo Martins (PT🇵🇹), Recheio (PT🇵🇹), MAXI (Angola🇦🇴), Auchan,
+- 🛒 **Retail**
+  
+  * Sonae (PT🇵🇹), Jerónimo Martins (PT🇵🇹), Recheio (PT🇵🇹), MAXI (Angola🇦🇴), Auchan,
   * IKEA (PT🇵🇹SE🇸🇪), LIDL (PT🇵🇹GE🇩🇪), METRO/MAKRO (PT🇵🇹GE🇩🇪), Shoprite (ZA🇿🇦)
   * Candando (Angola🇦🇴)
 
-- 🛡️ **Defense**  
-  • NEXTER (FR🇫🇷), EMGFA (PT🇵🇹)
+- **Defense**
+  
+  * NEXTER (FR🇫🇷), EMGFA (PT🇵🇹)
 
-- 🏥 **Healthcare**  
-  • Luz Saúde (PT🇵🇹), Hospital Lusíadas (PT🇵🇹), SPMS (PT🇵🇹)
+- **Healthcare**
+  
+  * Luz Saúde (PT🇵🇹), Hospital Lusíadas (PT🇵🇹), SPMS (PT🇵🇹)
 
-- 🏛️ **Services & Public Sector**  
-  • Nampost (Namibia🇳🇦), Emaratech (UAE🇦🇪)
+- **Services & Public Sector**
+   
+  * Nampost (Namibia🇳🇦), Emaratech (UAE🇦🇪)
 
-- 🛢️ **Oil & Gas**  
-  • TOTAL Africa (FR🇫🇷ZA🇿🇦), GALP (PT🇵🇹SP🇪🇸), ADNOC (UAE🇦🇪), ENOC (UAE🇦🇪)
+- **Oil & Gas**
+  
+  * TOTAL Africa (FR🇫🇷ZA🇿🇦), GALP (PT🇵🇹SP🇪🇸), ADNOC (UAE🇦🇪), ENOC (UAE🇦🇪)
 
-- ⚡ **Energy & Utilities**  
-  • EDP (PT🇵🇹), VIVO Energia (PT🇵🇹SP🇪🇸), ORANGE (Nigeria🇳🇬Ghana🇬🇭)
+- **Energy & Utilities**
+   
+  * EDP (PT🇵🇹), VIVO Energia (PT🇵🇹SP🇪🇸), ORANGE (Nigeria🇳🇬Ghana🇬🇭)
 
 ---
 
