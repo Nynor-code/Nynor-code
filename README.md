@@ -27,12 +27,33 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 
 ## 🛠️ Skills & Tools
 
-**Languages**: Python, SQL, Markdown, Bash  
-**Libraries & ML**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
-**GenAI & NLP**: LLMs (GPT, Mistral, Whisper), OpenAI API, LangChain, Hugging Face  
-**Data Engineering**: MLflow, FastAPI, Streamlit, Docker, AWS S3  
-**Certifications**: PMP, Scrum Master, Lean Six Sigma Black Belt, Python Certified Developer, Certified Ethical Hacker, Digital Transformation  
-**Methodologies**: Agile, Waterfall, Risk Management, Change Control
+### Programming & Data
+- Python, SQL, Markdown, Bash
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- TensorFlow, Keras, MLflow, Jupyter Notebooks
+
+### Machine Learning & AI
+- Predictive Modeling, Time-Series Forecasting
+- Generative AI (LLMs, Whisper, NLP)
+- LangChain, Hugging Face, OpenAI API
+
+### Web & App Development
+- FastAPI, Flask, Streamlit
+- API development, interactive dashboards, backend logic
+
+### Cloud & DevOps
+- Docker, **Docker Compose**
+- Git, GitHub Actions
+- **Google Cloud Platform (GCP)**: BigQuery, Cloud Storage, Vertex AI
+- **Amazon Web Services (AWS)**: S3, EC2, Lambda, SageMaker
+
+### Project & Process Management
+- Agile, Scrum (Certified), PMP
+- Lean Six Sigma Black Belt
+- Stakeholder Engagement, Risk & Change Management
+
+### Tools & Platforms
+- Notion, VS Code, GitHub, Jira, Trello, Slack, Miro, MS Project
 
 ---
 
@@ -49,17 +70,18 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 
 - **IT & IS**
 
-  * EDS (PT🇵🇹SP🇪🇸), Logica(PT🇵🇹DK🇩🇰UK🇬🇧IRL🇮🇪), Wincor Nixdorf (PT🇵🇹GE🇩🇪)
-  * Fujitsu (PT🇵🇹JP🇯🇵FI🇫🇮), OutSystems (Europe🇪🇺)
+  * PT Tax Athority (PT🇵🇹), IST-Technical Superior Institute (PT🇵🇹), EDS (PT🇵🇹SP🇪🇸), 
+  * Logica(PT🇵🇹DK🇩🇰UK🇬🇧IRL🇮🇪), Wincor Nixdorf (PT🇵🇹GE🇩🇪), Fujitsu (PT🇵🇹JP🇯🇵FI🇫🇮),
+  * OutSystems (Europe🇪🇺)
 
 - **Banking**
   
-  * ABSA (ZA🇿🇦), EMIS (Angola🇦🇴), EQUITY bank (Kenya🇰🇪), Bank MISR (Egypt🇪🇬)
+  * ABSA (ZA🇿🇦), EMIS (Angola🇦🇴), EQUITY bank (Kenya🇰🇪), Bank MISR (Egypt🇪🇬),
   * Euronext (PT🇵🇹), SIBS (PT🇵🇹)
 
 - 🛒 **Retail**
   
-  * Sonae (PT🇵🇹), Jerónimo Martins (PT🇵🇹), Recheio (PT🇵🇹), MAXI (Angola🇦🇴), Auchan,
+  * Sonae (PT🇵🇹), Jerónimo Martins (PT🇵🇹), Recheio (PT🇵🇹), MAXI (Angola🇦🇴), Auchan (PT🇵🇹FR🇫🇷),
   * IKEA (PT🇵🇹SE🇸🇪), LIDL (PT🇵🇹GE🇩🇪), METRO/MAKRO (PT🇵🇹GE🇩🇪), Shoprite (ZA🇿🇦)
   * Candando (Angola🇦🇴)
 
@@ -82,6 +104,17 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 - **Energy & Utilities**
    
   * EDP (PT🇵🇹), VIVO Energia (PT🇵🇹SP🇪🇸), ORANGE (Nigeria🇳🇬Ghana🇬🇭)
+
+---
+## 🎯 Hobbies & Interests
+
+- 🎯 **Precision Shooting** – Actively engaged in long-range sniper training and pistol competition, strengthening focus, patience, and situational awareness.
+- 🤿 **Certified Dive Master** – Experienced in deep and technical diving; trained in underwater navigation, safety leadership, and complex scenario handling.
+- 📚 **Military History & Strategy** – Passionate about defense systems, C2ISR ecosystem, leadership dynamics, decision-making under pressure, and applied tactics.
+- 🚴‍♀️ **Cycling & Outdoor Exploration** – Enjoys endurance cycling and hiking as ways to build resilience and reflect creatively.
+- 🤖 **AI Ethics & Human Factors** – Deep interest in responsible AI deployment, especially in high-stakes environments.
+- 🎧 **Podcast Curation** – Follows tech, national security, neuroscience, and behavioral science topics.
+- 🌍 **Cultural Immersion** – Embracing global mobility; strongly aligned with Scandinavian values and Nordic work-life balance.
 
 ---
 
