@@ -17,15 +17,15 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 
 ## 🚀 What I’m Working On
 
-- 🔬 **burnout-predict** – A Streamlit app for burnout risk prediction using a Deep Learning model for the predictions
-- 🔬 **PulseBurn** – A Streamlit app for burnout risk prediction using LSTM, Prophet & wearable data
-- 🤖 **GenAI Service Assistant** – LLM-powered assistant for smarter, faster customer support
-- 🎞️ **Media Organizer** – AI script for classifying, deduplicating, and organizing photo/video archives
-- 🧠 **nynora** – Modular Python library with AI agents for transcription, summarization, image tasks, etc.
+- **Burnout Predict** – A Streamlit app for burnout risk prediction using a Deep Learning model for the predictions
+- **Pulse Burn** – A Streamlit app for burnout risk prediction using LSTM, Prophet & wearable data
+- **GenAI Service Assistant** – LLM-powered assistant for smarter, faster customer support
+- **Media Organizer** – AI script for classifying, deduplicating, categorizing, and organizing photo/video archives
+- **Nynora lib** – Modular Python library with AI agents for transcription, summarization, image tasks, etc.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Hard Skills & Tools
 
 ### Programming & Data
 - Python, SQL, Markdown, Bash
@@ -57,6 +57,19 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 
 ---
 
+## 🧠 Soft Skills
+
+- **Strategic Thinking** – Strong ability to align data initiatives with business objectives and long-term impact.
+- **Cross-Cultural Communication** – 20+ years working with multicultural teams across EMEA; comfortable adapting to diverse environments.
+- **Leadership & Mentoring** – Led high-performing teams in complex, high-stakes projects; known for clear guidance and support.
+- **Adaptability** – Quick to integrate into new environments, industries, and technologies—ready to relocate and thrive in Finland.
+- **Decision-Making Under Pressure** – Reinforced through work in defense projects and sniper training—focused, calm, and ethical.
+- **Problem Solving** – Solutions-oriented mindset, combining analytical thinking with creative execution.
+- **Integrity & Accountability** – Strong personal ethics, rooted in military family background and mission-driven work.
+- **Continuous Learning** – Ongoing development in AI, deep learning, and cloud infrastructure; curious and growth-minded.
+
+---
+
 ## 🌍 Background & Motivation
 
 - MSc in Electrical Engineering (IST Lisbon)  
@@ -71,19 +84,19 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 - **IT & IS**
 
   * PT Tax Athority (PT🇵🇹), IST-Technical Superior Institute (PT🇵🇹), EDS (PT🇵🇹SP🇪🇸), 
-  * Logica(PT🇵🇹DK🇩🇰UK🇬🇧IRL🇮🇪), Wincor Nixdorf (PT🇵🇹GE🇩🇪), Fujitsu (PT🇵🇹JP🇯🇵FI🇫🇮),
-  * OutSystems (Europe🇪🇺)
+  * Logica(PT🇵🇹DK🇩🇰UK🇬🇧IE🇮🇪), Wincor Nixdorf (PT🇵🇹GE🇩🇪NL🇳🇱Africa🌍), Fujitsu (PT🇵🇹JP🇯🇵FI🇫🇮),
+  * OutSystems (Europe🇪🇺UAE🇦🇪), INDIGO (PT🇵🇹), Partneer (PT🇵🇹UAE🇦🇪SA🇸🇦)
 
 - **Banking**
   
-  * ABSA (ZA🇿🇦), EMIS (Angola🇦🇴), EQUITY bank (Kenya🇰🇪), Bank MISR (Egypt🇪🇬),
+  * ABSA (ZA🇿🇦), EMIS (AO🇦🇴), EQUITY bank (KE🇰🇪), Bank MISR (EG🇪🇬),
   * Euronext (PT🇵🇹), SIBS (PT🇵🇹)
 
 - 🛒 **Retail**
   
-  * Sonae (PT🇵🇹), Jerónimo Martins (PT🇵🇹), Recheio (PT🇵🇹), MAXI (Angola🇦🇴), Auchan (PT🇵🇹FR🇫🇷),
+  * Sonae (PT🇵🇹), Jerónimo Martins (PT🇵🇹), Recheio (PT🇵🇹), MAXI (AO🇦🇴), Auchan (PT🇵🇹FR🇫🇷),
   * IKEA (PT🇵🇹SE🇸🇪), LIDL (PT🇵🇹GE🇩🇪), METRO/MAKRO (PT🇵🇹GE🇩🇪), Shoprite (ZA🇿🇦)
-  * Candando (Angola🇦🇴)
+  * Candando (AO🇦🇴)
 
 - **Defense**
   
@@ -103,18 +116,19 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 
 - **Energy & Utilities**
    
-  * EDP (PT🇵🇹), VIVO Energia (PT🇵🇹SP🇪🇸), ORANGE (Nigeria🇳🇬Ghana🇬🇭)
+  * EDP (PT🇵🇹), VIVO Energia (PT🇵🇹SP🇪🇸), ORANGE (NG🇳🇬GH🇬🇭)
 
 ---
+
 ## 🎯 Hobbies & Interests
 
-- 🎯 **Precision Shooting** – Actively engaged in long-range sniper training and pistol competition, strengthening focus, patience, and situational awareness.
-- 🤿 **Certified Dive Master** – Experienced in deep and technical diving; trained in underwater navigation, safety leadership, and complex scenario handling.
-- 📚 **Military History & Strategy** – Passionate about defense systems, C2ISR ecosystem, leadership dynamics, decision-making under pressure, and applied tactics.
-- 🚴‍♀️ **Cycling & Outdoor Exploration** – Enjoys endurance cycling and hiking as ways to build resilience and reflect creatively.
-- 🤖 **AI Ethics & Human Factors** – Deep interest in responsible AI deployment, especially in high-stakes environments.
-- 🎧 **Podcast Curation** – Follows tech, national security, neuroscience, and behavioral science topics.
-- 🌍 **Cultural Immersion** – Embracing global mobility; strongly aligned with Scandinavian values and Nordic work-life balance.
+- **Precision Shooting** – Actively engaged in long-range sniper training and pistol competition, strengthening focus, patience, and situational awareness.
+- **Certified Dive Master** – Experienced in deep and technical diving; trained in underwater navigation, safety leadership, and complex scenario handling.
+- **Military History & Strategy** – Passionate about defense systems, C2ISR ecosystems, leadership dynamics, decision-making under pressure, and applied tactics.
+- **Cycling & Outdoor Exploration** – Enjoys endurance cycling and hiking to build resilience and reflect creatively.
+- **AI Ethics & Human Factors** – Deep interest in responsible AI deployment, especially in high-stakes environments.
+- **Podcast Curation** – Follows tech, national security, neuroscience, and behavioral science topics.
+- **Cultural Immersion** – Embracing global mobility; strongly aligned with Scandinavian values and Nordic work-life balance.
 
 ---
 
