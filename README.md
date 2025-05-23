@@ -124,7 +124,7 @@ My goal is to bridge business needs with scalable tech, especially in sectors wh
 
 - **Precision Shooting** – Actively engaged in long-range sniper training and pistol competition, strengthening focus, patience, and situational awareness.
 - **Certified Dive Master** – Experienced in deep and technical diving; trained in underwater navigation, safety leadership, and complex scenario handling.
-- **Military History & Strategy** – Passionate about defense systems, C2ISR ecosystems, leadership dynamics, decision-making under pressure, and applied tactics.
+- **Military History & Strategy** – Passionate about defense systems, C2, C4ISR ecosystems, leadership dynamics, decision-making under pressure, and applied tactics.
 - **Cycling & Outdoor Exploration** – Enjoys endurance cycling and hiking to build resilience and reflect creatively.
 - **AI Ethics & Human Factors** – Deep interest in responsible AI deployment, especially in high-stakes environments.
 - **Podcast Curation** – Follows tech, national security, neuroscience, and behavioral science topics.
